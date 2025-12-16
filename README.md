@@ -20,6 +20,13 @@ Technologies Used
 
 ⸻
 
+Login Page: 
+
+<img width="1500" height="892" alt="Screenshot 2025-12-16 at 1 04 32 PM" src="https://github.com/user-attachments/assets/45d1baaa-0d64-4ddd-bbc1-8e354035e84c" />
+
+Signup page: 
+<img width="1501" height="896" alt="Screenshot 2025-12-16 at 1 04 40 PM" src="https://github.com/user-attachments/assets/99ed1aa2-5982-48aa-86e4-64ced91c47a1" />
+
 How It Works
 
 Signup
