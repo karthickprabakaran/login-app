@@ -1,5 +1,4 @@
-# login-app
-
+login-app
 
 Login Page Application
 
@@ -12,13 +11,14 @@ The requirement was to create a login page where:
 	•	The entered password is compared with the stored password
 	•	A success or error message is shown based on the result
 
-
+⸻
 
 Technologies Used
 	•	Frontend: React, CSS
 	•	Backend: Node.js, Express
 	•	Database: Supabase (PostgreSQL)
 
+⸻
 
 How It Works
 
@@ -35,27 +35,50 @@ Login
 	4.	If matched → login successful
 	5.	If not matched → login failed
 
+⸻
 
-How to Run the App : 
+How to Run the App
 
-   
 The project has two folders:
 	•	Backend → Node.js server
-	•	Frontend → React (Vite) app
+	•	Frontend → React (Vite) application
 
+Run the Backend
 
-First, run the backend server.
 Open a terminal and go to the Backend folder.
-Run to install dependencies.
-```npm install ```
-Then run 
+Install dependencies:
 
-```nodemon app.js
 ```
-The backend will start on http://localhost:3000.
+npm install
+```
 
-Next, run the frontend application.
+Start the server:
+```
+nodemon app.js
+```
+
+Backend runs on:
+```
+http://localhost:3000
+```
+
+Run the Frontend
+
 Open a new terminal and go to the Frontend folder.
-Run to install dependencies.```npm install 
-Then run ```npm run dev```
-The frontend will start on ```http://localhost:5173```
+Install dependencies:
+
+```
+npm install
+```
+
+Start the app:
+
+```
+npm run dev
+```
+
+Frontend runs on:
+
+```
+http://localhost:5173
+```
